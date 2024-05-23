@@ -1,0 +1,12 @@
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/bin/Debug/net8.0/ExemploFundamentos.Common.deps.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/bin/Debug/net8.0/ExemploFundamentos.Common.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/bin/Debug/net8.0/ExemploFundamentos.Common.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.AssemblyInfoInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.AssemblyInfo.cs
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.sourcelink.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/refint/ExemploFundamentos.Common.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploFundamentos.Common/obj/Debug/net8.0/ref/ExemploFundamentos.Common.dll

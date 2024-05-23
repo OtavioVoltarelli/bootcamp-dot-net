@@ -1,0 +1,15 @@
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/bin/Debug/net8.0/dot-net
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/bin/Debug/net8.0/dot-net.deps.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/bin/Debug/net8.0/dot-net.runtimeconfig.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/bin/Debug/net8.0/dot-net.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/bin/Debug/net8.0/dot-net.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.AssemblyInfoInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.AssemblyInfo.cs
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.csproj.CoreCompileInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.sourcelink.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/refint/dot-net.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/dot-net.genruntimeconfig.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/obj/Debug/net8.0/ref/dot-net.dll

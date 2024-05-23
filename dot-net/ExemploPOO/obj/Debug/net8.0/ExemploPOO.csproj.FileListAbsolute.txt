@@ -1,0 +1,15 @@
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/bin/Debug/net8.0/ExemploPOO
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/bin/Debug/net8.0/ExemploPOO.deps.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/bin/Debug/net8.0/ExemploPOO.runtimeconfig.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/bin/Debug/net8.0/ExemploPOO.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/bin/Debug/net8.0/ExemploPOO.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfoInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfo.cs
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.sourcelink.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/refint/ExemploPOO.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ExemploPOO.genruntimeconfig.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploPOO/obj/Debug/net8.0/ref/ExemploPOO.dll

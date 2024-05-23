@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+e7LTbqr7jQ3vphu2hm/TPQhHcDDD4c0mX+o00VdBToGNwAVKLT9WVmCv1qFyxC7ydaIp2GW2PE8KywElU7uyg==",
+  "success": true,
+  "projectFilePath": "/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ExemploExplorando/ExemploExplorando.csproj",
+  "expectedPackageFiles": [
+    "/Users/otaviovoltarelli/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

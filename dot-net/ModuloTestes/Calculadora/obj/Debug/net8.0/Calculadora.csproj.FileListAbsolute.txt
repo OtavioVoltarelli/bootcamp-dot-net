@@ -1,0 +1,15 @@
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/bin/Debug/net8.0/Calculadora
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.sourcelink.json
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/Users/otaviovoltarelli/Desktop/bootcamp-dot-net/dot-net/ModuloTestes/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll
